@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pautas</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="forgot_password">Recuperar Senha</string>
+    <string name="create_account">Cadastro</string>
+    <string name="login">Entrar</string>
+    <string name="send_password">Recuperar Senha</string>
+    <string name="msg_email_empty">O E-mail deve ser informado</string>
+    <string name="msg_password_empty">A Senha deve ser informada</string>
+    <string name="msg_email_invalid">Email incorreto</string>
+    <string name="msg_password_invalid">Senha incorreta</string>
+    <string name="hint_name">Nome</string>
+    <string name="create">Cadastrar</string>
+    <string name="msg_name_empty">O Nome deve ser informado</string>
+    <string name="alert_title">Mensagem</string>
+    <string name="ok">OK</string>
+    <string name="msg_password_show">Sua senha é: %1s</string>
+    <string name="mnu_profile">Perfil</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="logout">Logout</string>
+    <string name="status_finish">Finalizar</string>
+    <string name="status_reopen">Reabrir</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_open">ABERTAS</string>
+    <string name="fragment_closed">FECHADAS</string>
+    <string name="hint_titulo">Titulo</string>
+    <string name="hint_description">Breve Descrição</string>
+    <string name="finalize">Finalizar</string>
+    <string name="hint_details">Detalhes</string>
+    <string name="hint_author">Autor</string>
+    <string name="mnu_create_pauta">Incluir Pauta</string>
+    <string name="act_pautas">Pautas</string>
+    <string name="act_perfil">Perfil</string>
+    <string name="act_pauta">Cadastrar Pauta</string>
+</resources>
+
